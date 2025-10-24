@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "BB",
   "license": "MIT",
-  "type":"module"
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
